@@ -1,2 +1,2 @@
 # Samurai
-Scripts for Samurai
+Scripts and other documents for Samurai.
